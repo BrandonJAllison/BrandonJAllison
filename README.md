@@ -4,7 +4,7 @@
 
 - 💬 I am a full stack developer from Sunbury, Pennsylvania.  My current role is Front-End developer for SpicesInc.com 
 - 📫 How to reach me: brandon.james.allison@gmail.com
-- You can find me on [![Twitter][1.2]][1].
+- You can find and follow me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
