@@ -1,5 +1,8 @@
 ### Hi there, my name is Brandon Allison and I am a Full-Stack Developer 👋
 
+![Header](https://raw.githubusercontent.com/BrandonJAllison/<OWNER>/<OWNER>/BrandonAllison.png "Header")](https://github.com/BrandonJAllison/)
+
+
 - 📫 How to reach me: brandon.james.allison@gmail.com
 
 <!--
