@@ -1,6 +1,6 @@
 ### Hi there, my name is Brandon Allison and I am a Full-Stack Developer 👋
 
-![](Brandon Allison.png)
+![Brandon Allison](Brandon%20Allison.png)
 
 
 - 📫 How to reach me: brandon.james.allison@gmail.com
