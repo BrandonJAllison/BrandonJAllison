@@ -1,6 +1,6 @@
 ### Hi there, my name is Brandon Allison and I am a Full-Stack Developer 👋
 
-[![Header](https://raw.githubusercontent.com/BrandonJAllison/<OWNER>/<OWNER>/Brandon Allison.png "Header")](https://github.com/BrandonJAllison/)
+![](Brandon Allison.png)
 
 
 - 📫 How to reach me: brandon.james.allison@gmail.com
