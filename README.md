@@ -1,6 +1,6 @@
 ### Hello
 
-![Brandon Allison](Brandon%20Allison.png)
+<img src="Brandon%20Allison.png"/>
 
 - 💬 I am a full stack developer from Sunbury, Pennsylvania.  My current role is Front-End developer for SpicesInc.com 
 - 📫 How to reach me: brandon.james.allison@gmail.com
