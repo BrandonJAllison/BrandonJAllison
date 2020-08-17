@@ -1,8 +1,8 @@
-### Hi there, my name is Brandon Allison and I am a Full-Stack Developer 👋
+### Hello
 
 ![Brandon Allison](Brandon%20Allison.png)
 
-
+- 💬 I am a full stack developer from Sunbury, Pennsylvania.  My current role is Front-End developer for SpicesInc.com 
 - 📫 How to reach me: brandon.james.allison@gmail.com
 
 <!--
