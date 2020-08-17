@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Brandon Allison and I am a Full-Stack Developer 👋
+
+- 📫 How to reach me
 
 <!--
 **BrandonJAllison/BrandonJAllison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
