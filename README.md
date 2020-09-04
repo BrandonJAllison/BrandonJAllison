@@ -1,4 +1,3 @@
-### Hello
 
 <img src="https://raw.githubusercontent.com/BrandonJAllison/BrandonJAllison/master/Brandon%20Allison.png" style= "margin: 0 auto;"/>
 
