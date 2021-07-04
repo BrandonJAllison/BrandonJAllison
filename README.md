@@ -1,8 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/BrandonJAllison/BrandonJAllison/master/Brandon%20Allison.png" style= "margin: 0 auto;"/>
 
-- 💬 I am a full stack developer from Sunbury, Pennsylvania.  My current role is Front-End developer for SpicesInc.com 
-- 📫 How to reach me: brandon.james.allison@gmail.com
+- 💬 I am a full stack developer from Sunbury, Pennsylvania.  My current role is Web Developer for Cup o Code Marketing and Websites
+- 📫 How to reach me: brandon@cupocode.com
 - You can find and follow me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
